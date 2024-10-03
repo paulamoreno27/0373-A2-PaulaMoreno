@@ -17,9 +17,9 @@
 
     |Tipos|Enlace doc|
     |--------|--------:|
-    |CSS |Curso 2324|
-    |HTML|Curso 2425|
-    |MARCDOWN|Curso 2425|
+    |CSS |
+    |HTML|
+    |MARCDOWN|
 
 
 4. **¿Qué es HTML ? ¿Sabes cómo se estructura?**
