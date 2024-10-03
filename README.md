@@ -14,14 +14,12 @@
 3. **¿Qué son los lenguajes de marcas? ¿Cuántos conoces?.** 
 
     Son diversos tipos de lenguajes los cuales nos permiten crear las páginas webs mediante codigos y estructuras. Conozco HTML, CSS y Markdown.
-    |Lenguajes de marcas|Documentación|
-    |:---------------| |[Enlace documentación](https://docs.google.com/document/d/1qs9ljnrz0HMF30F3OoJPxIhfjxl6cvgAINfTFmL4Dgw/edit#heading=h.3ry0i970ofvk "Titulo optativo")|
-    |1. HTML|
-    |:---------------|
-    |2. CSS |
-    |:---------------|
-    |3. Markdown |
-    |:---------------|
+
+    |Tipos|Enlace doc|
+    |--------|--------:|
+    |CSS |Curso 2324|
+    |HTML|Curso 2425|
+    |MARCDOWN|Curso 2425|
 
 
 4. **¿Qué es HTML ? ¿Sabes cómo se estructura?**
