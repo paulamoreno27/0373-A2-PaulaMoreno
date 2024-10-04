@@ -17,10 +17,8 @@
 
     |Tipos|Enlace doc|
     |--------|--------:|
-    |CSS |
-    |HTML|
-    |MARCDOWN|
-
+    |1. HTML |
+    |2. Markdown|
 
 4. **¿Qué es HTML ? ¿Sabes cómo se estructura?**
 
