@@ -16,9 +16,9 @@
     Son diversos tipos de lenguajes los cuales nos permiten crear las páginas webs mediante codigos y estructuras. Conozco HTML, CSS y Markdown.
 
     |Tipos|Enlace doc|
-    |--------|--------:|
-    |HTML |[Enlace HTML]([[URL](https://es.wikipedia.org/wiki/Markdown)](https://es.wikipedia.org/wiki/HTML) "Enlace HTML")|
-    |Markdown|[Enlace Markdown]([URL](https://es.wikipedia.org/wiki/Markdown) "Enlace Markdown")|
+    |--------|:--------|
+    |HTML |[Enlace HTML](https://es.wikipedia.org/wiki/HTML "Enlace HTML")|
+    |Markdown|[Enlace Markdown](https://es.wikipedia.org/wiki/Markdown "Enlace Markdown")|
 
 4. **¿Qué es HTML ? ¿Sabes cómo se estructura?**
 
