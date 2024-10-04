@@ -17,8 +17,8 @@
 
     |Tipos|Enlace doc|
     |--------|--------:|
-    |1. HTML |
-    |2. Markdown|
+    |HTML |[Enlace HTML]([[URL](https://es.wikipedia.org/wiki/Markdown)](https://es.wikipedia.org/wiki/HTML) "Enlace HTML")|
+    |Markdown|[Enlace Markdown]([URL](https://es.wikipedia.org/wiki/Markdown) "Enlace Markdown")|
 
 4. **¿Qué es HTML ? ¿Sabes cómo se estructura?**
 
